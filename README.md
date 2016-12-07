@@ -11,6 +11,8 @@ HOW ALAN ALGORITHM WORKS:
     
 Alan Algorithm is meant as a teaching tool. It’s really designed for people from about 16 years old to take a fun look at how they think about algorithms.
 
+Check the GAME file for game ideas, and you are welcome to share your ideas with us ! 
+
 FOR DETAILED PROCESS AND ARDUINO CIRCUIT DIAGRAM, PLEASE REFER TO : https://www.instagram.com/alanalgorithm/
 
 
